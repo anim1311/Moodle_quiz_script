@@ -18,7 +18,9 @@ While this script is designed to make your life easier, it can't do your laundry
 
 2. **Sit Back and Relax**: Let the script do its magic. Grab a coffee, catch up on your favorite show, or contemplate the meaning of life - the choice is yours.
 
-3. **Bask in Glory**: When the script finishes, revel in the fact that you just saved hours of your precious time. You're practically a productivity wizard now!
+3. **Bask in Glory**: When the script does not work!
+
+4. **Time to Code**: time to spend more effort to make automation that does the work for you, which you can do faster!
 
 ## Video Demo
 
