@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = '<your key here>'
 
 def getQuestionName(question: str) -> str:
 

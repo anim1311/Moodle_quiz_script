@@ -53,8 +53,8 @@ time.sleep(DELAY_SLOWER)
 
 click_element(By.XPATH, "/html/body/div[2]/nav/div[2]/div[3]/div/span/a")
 
-set_text(By.NAME, "j_username", "30199@students.hsrw")
-set_text(By.NAME, "j_password", "Tracker@1311")
+set_text(By.NAME, "j_username", "NiceTry@youremail.com")
+set_text(By.NAME, "j_password", "NiceTryPassword")
 driver.find_element(By.NAME, "j_password").send_keys(Keys.RETURN)
 time.sleep(DELAY_FAST)
 
