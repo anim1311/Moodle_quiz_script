@@ -4,6 +4,11 @@
 
 Tired of those mind-numbing, repetitive tasks your professor assigned? Look no further! This script is here to save the day (and your sanity).
 
+## Video Demo
+
+https://github.com/anim1311/Moodle_quiz_script/assets/65235028/31e2a14e-5f4d-4ba6-971f-97c92a536a82
+
+
 ## What is this?
 
 This script is my personal hero for tackling the monotonous Moodle quiz tasks. Say goodbye to manual labor and hello to efficiency!
@@ -22,9 +27,6 @@ While this script is designed to make your life easier, it can't do your laundry
 
 4. **Time to Code**: time to spend more effort to make automation that does the work for you, which you can do faster!
 
-## Video Demo
-
-https://github.com/anim1311/Moodle_quiz_script/assets/65235028/31e2a14e-5f4d-4ba6-971f-97c92a536a82
 
 
 ## Bugs and Issues
