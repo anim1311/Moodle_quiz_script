@@ -47,9 +47,9 @@ login.click()
 time.sleep(FAST_DELAY) # Let the user actually see something!
 
 username = driver.find_element(By.NAME,"j_username");
-username.send_keys("30199@students.hsrw")
+username.send_keys("Your username")
 password = driver.find_element(By.NAME,"j_password");
-password.send_keys("Tracker@1311")
+password.send_keys("Your password")
 password.send_keys(Keys.RETURN)
 time.sleep(FAST_DELAY)
 
