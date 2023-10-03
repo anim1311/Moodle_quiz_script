@@ -5,6 +5,7 @@
 Tired of those mind-numbing, repetitive tasks your professor assigned? Look no further! This script is here to save the day (and your sanity).
 
 ## Video Demo
+You better watch the video from 1:10, the inital part is just user authentication
 
 https://github.com/anim1311/Moodle_quiz_script/assets/65235028/31e2a14e-5f4d-4ba6-971f-97c92a536a82
 
